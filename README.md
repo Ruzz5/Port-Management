@@ -2,9 +2,11 @@
 OUTPUT SCREENSHOTS
 
 
-<img width="688" height="247" alt="Screenshot 2025-09-17 222650" src="https://github.com/user-attachments/assets/8e58b2d3-e03d-4af9-848e-ccbdec777beb" />
-<img width="430" height="276" alt="Screenshot 2025-09-17 222611" src="https://github.com/user-attachments/assets/47e7baa0-ef39-4f2d-83e3-c9fff5ba0d17" />
-<img width="353" height="264" alt="Screenshot 2025-09-17 222553" src="https://github.com/user-attachments/assets/0ffd360c-397a-405c-aaee-2baaa39fcb86" />
-<img width="384" height="266" alt="Screenshot 2025-09-17 222443" src="https://github.com/user-attachments/assets/862344a6-55d7-4a12-acd4-2c85418f9040" />
-<img width="437" height="253" alt="Screenshot 2025-09-17 222423" src="https://github.com/user-attachments/assets/2f6ad07e-f3d1-45ba-ad81-fa14bf098168" />
-<img width="385" height="255" alt="Screenshot 2025-09-17 222118" src="https://github.com/user-attachments/assets/52c05c93-86b5-4a8d-a987-6464563b3362" />
+<img width="570" height="246" alt="Screenshot 2025-09-17 224049" src="https://github.com/user-attachments/assets/02873c8e-746d-4284-aa4b-534c3dd54157" />
+<img width="391" height="285" alt="Screenshot 2025-09-17 224037" src="https://github.com/user-attachments/assets/01b5b045-0ab3-4daf-b5c5-a19125472a08" />
+<img width="399" height="301" alt="Screenshot 2025-09-17 224004" src="https://github.com/user-attachments/assets/16e75fc6-c1eb-4684-94d9-f2814511defe" />
+<img width="421" height="241" alt="Screenshot 2025-09-17 223924" src="https://github.com/user-attachments/assets/196ebff9-fe01-4f99-afd3-df742082ced6" />
+<img width="462" height="249" alt="Screenshot 2025-09-17 223807" src="https://github.com/user-attachments/assets/015ee5be-1c54-4e6e-93eb-5e070ee9e17e" />
+<img width="458" height="252" alt="Screenshot 2025-09-17 223735" src="https://github.com/user-attachments/assets/f42a8b93-37db-4ada-98a4-0be19f3c3f6a" />
+<img width="357" height="250" alt="Screenshot 2025-09-17 223724" src="https://github.com/user-attachments/assets/1387a638-5420-4474-ad4d-d2890febbd32" />
+<img width="336" height="258" alt="Screenshot 2025-09-17 223719" src="https://github.com/user-attachments/assets/5ecd6124-caa1-471e-99ae-636d73796fcb" />
